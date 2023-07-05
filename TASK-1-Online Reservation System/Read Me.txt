@@ -1,0 +1,41 @@
+Create database as follows: 
+
+
+DataBase Name : railway_reservation_system
+
+3 Tables 
+
+1. registration
+	
+	a. name
+	b. username
+	c. email
+	d. phone :-> Primary Key
+	e. password
+
+2. reservation
+
+	a. id :-> Primary Key
+	b. startPlace
+	c. destinationPlace
+	d. trainId
+	e. trainName
+	f. Price
+	g. Date
+	h. Ticket
+	i. Total
+
+3. train
+
+	a. trainId
+	b. trainName
+	c. startPlace
+	d. destinationPlace
+	e. Price
+	
+	
+	
+	
+	
+	
+	
