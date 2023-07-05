@@ -1,7 +1,7 @@
 # OIBSIP
 ## `Java Development Internship - OASIS INFOBYTE`
 
-Welcome to Oasis Infobyte Java Development Projects repository. This repository contains Java projects, including "Online Examination System, Number Guessing Game and ATM Interface ." These projects are designed to help you improve your Java programming skills and showcase your knowledge.
+Welcome to the Oasis Infobyte Java Development Projects repository. This repository contains Java projects, including "Online Examination System, Number Guessing Game, and ATM Interface ." These projects are designed to help you improve your Java programming skills and showcase your knowledge.
 
 ## Task 2: `Number Guessing Game`
 The second project I worked on was a number-guessing game. While this project was relatively simple, it helped me develop my logic and problem-solving skills.
@@ -12,5 +12,5 @@ The third and final project I worked on was an ATM interface. This project was t
 I had to implement features such as displaying a menu of options, prompting the user for input, and updating account balances based on the user's actions. This project helped me develop my skills in Java programming, especially in working with classes, objects, and methods.
 
 ## Task 4: `Online Examination System`
-The first project I worked on was an online examination system. This project allowed me to explore the world of web development and learn how to create a user-friendly interface for an online exam.
+The fourth project I worked on was an online examination system. This project was the most challenging, as it required me to develop a console-based application that emulated the functionalities of an Online-Examination-System.
 I was able to implement features such as user authentication, a timer for the exam, and automatic submission of answers. I also learned how to use Java technologies such as Servlets and JSPs to create dynamic web pages.
